@@ -1,0 +1,11 @@
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp2.0\EmployeeSalary.deps.json
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp2.0\EmployeeSalary.runtimeconfig.json
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp2.0\EmployeeSalary.runtimeconfig.dev.json
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp2.0\EmployeeSalary.dll
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp2.0\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp2.0\EmployeeSalary.AssemblyInfoInputs.cache
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp2.0\EmployeeSalary.AssemblyInfo.cs
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp2.0\EmployeeSalary.pdb
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp2.0\EmployeeSalary.dll
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp2.0\EmployeeSalary.pdb
+C:\Users\madhu\Source\Repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp2.0\EmployeeSalary.csprojResolveAssemblyReference.cache
